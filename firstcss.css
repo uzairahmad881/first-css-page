@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav1{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    gap: 30px;
+    
+    text-decoration: none;
+    list-style: none;
+    background-color: navy;
+
+}
+.nav1 li{
+
+    text-decoration: none;
+}
+.nav1 li a{
+    color: whitesmoke;
+    font-size: large;
+    font-weight: 700;
+}
+.h1{
+    background-color: black;
+    color: aliceblue;
+    padding: 50px;
+    text-align: center;
+}
+.button{
+    align-items: center;
+    padding: 12px;
+    margin: auto;
+    text-align: center;
+}
